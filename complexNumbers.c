@@ -3,7 +3,7 @@
  * Provided file for lab exam.
  *****************************************************************************************************
  * Author: Heshini Jayaweera
- * Project: Complex number division
+ * Project: Complex numbers
  * Copyright: 2023, Marc Hensel
  * Version: 2023.09.19
  * License: CC BY-NC-SA 4.0, see https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
